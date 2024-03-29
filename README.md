@@ -1,7 +1,7 @@
 # Repositorio de ejercicios y practicas de Taller de Base de Datos
-<p>
-Autor: Miguel Angel Montoya
-</p>
+
+### Autor:
+[(MiguelAnggel)](https://github.com/MiguelAnggel)
 
 ### Temario desarrollado:
 
