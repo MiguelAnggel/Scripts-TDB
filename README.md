@@ -1,7 +1,7 @@
 # Repositorio de ejercicios y practicas de Taller de Base de Datos
 
 ### Autor:
-[(MiguelAnggel)](https://github.com/MiguelAnggel)
+[MiguelAnggel](https://github.com/MiguelAnggel)
 
 ### Temario desarrollado:
 
