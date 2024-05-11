@@ -1,0 +1,9 @@
+En SQL, un "trigger" es un tipo de procedimiento almacenado que se ejecuta automáticamente cuando
+ocurre un evento específico en la base de datos. 
+Este evento puede ser una operación de inserción, actualización o eliminación en una tabla determinada. 
+Los triggers se utilizan para aplicar lógica adicional o realizar acciones específicas en respuesta
+a estos eventos, como actualizar otras tablas, validar datos, auditar cambios, entre otras cosas.
+
+Los triggers se definen con instrucciones SQL y se asocian a una tabla específica. 
+Pueden ser activados antes (BEFORE) o después (AFTER) de que ocurra el evento que los dispara, 
+y pueden ejecutarse para cada fila afectada por la operación o una vez por operación.
